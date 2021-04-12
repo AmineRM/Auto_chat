@@ -1,2 +1,2 @@
-# Auto chat
-Auto chat web site
+# chattingWithBot
+Automatic chatting website
